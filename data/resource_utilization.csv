@@ -1,0 +1,64 @@
+department,date,beds_available,beds_occupied,equipment,equipment_available,equipment_used
+Emergency,2024-07-01,21,13,Ventilators,12,12
+Emergency,2024-07-01,21,13,Monitors,9,6
+Emergency,2024-07-01,21,13,IV Pumps,14,2
+ICU,2024-07-01,21,20,Ventilators,12,4
+ICU,2024-07-01,21,20,Monitors,8,7
+ICU,2024-07-01,21,20,IV Pumps,12,2
+General Ward,2024-07-01,20,14,Ventilators,6,3
+General Ward,2024-07-01,20,14,Monitors,10,1
+General Ward,2024-07-01,20,14,IV Pumps,9,0
+Emergency,2024-07-02,24,15,Ventilators,13,0
+Emergency,2024-07-02,24,15,Monitors,14,11
+Emergency,2024-07-02,24,15,IV Pumps,7,3
+ICU,2024-07-02,21,13,Ventilators,13,2
+ICU,2024-07-02,21,13,Monitors,9,2
+ICU,2024-07-02,21,13,IV Pumps,11,4
+General Ward,2024-07-02,23,16,Ventilators,6,3
+General Ward,2024-07-02,23,16,Monitors,13,11
+General Ward,2024-07-02,23,16,IV Pumps,6,1
+Emergency,2024-07-03,23,19,Ventilators,9,1
+Emergency,2024-07-03,23,19,Monitors,8,6
+Emergency,2024-07-03,23,19,IV Pumps,12,2
+ICU,2024-07-03,15,13,Ventilators,6,3
+ICU,2024-07-03,15,13,Monitors,6,5
+ICU,2024-07-03,15,13,IV Pumps,10,5
+General Ward,2024-07-03,24,13,Ventilators,10,1
+General Ward,2024-07-03,24,13,Monitors,14,11
+General Ward,2024-07-03,24,13,IV Pumps,6,1
+Emergency,2024-07-04,18,17,Ventilators,11,11
+Emergency,2024-07-04,18,17,Monitors,13,13
+Emergency,2024-07-04,18,17,IV Pumps,12,4
+ICU,2024-07-04,16,16,Ventilators,9,7
+ICU,2024-07-04,16,16,Monitors,14,8
+ICU,2024-07-04,16,16,IV Pumps,13,12
+General Ward,2024-07-04,15,10,Ventilators,11,8
+General Ward,2024-07-04,15,10,Monitors,12,0
+General Ward,2024-07-04,15,10,IV Pumps,12,7
+Emergency,2024-07-05,17,10,Ventilators,12,2
+Emergency,2024-07-05,17,10,Monitors,7,0
+Emergency,2024-07-05,17,10,IV Pumps,9,9
+ICU,2024-07-05,21,19,Ventilators,13,11
+ICU,2024-07-05,21,19,Monitors,11,8
+ICU,2024-07-05,21,19,IV Pumps,12,11
+General Ward,2024-07-05,16,10,Ventilators,11,6
+General Ward,2024-07-05,16,10,Monitors,12,4
+General Ward,2024-07-05,16,10,IV Pumps,7,3
+Emergency,2024-07-06,22,15,Ventilators,7,0
+Emergency,2024-07-06,22,15,Monitors,7,4
+Emergency,2024-07-06,22,15,IV Pumps,7,0
+ICU,2024-07-06,19,19,Ventilators,11,6
+ICU,2024-07-06,19,19,Monitors,13,9
+ICU,2024-07-06,19,19,IV Pumps,14,11
+General Ward,2024-07-06,17,16,Ventilators,11,0
+General Ward,2024-07-06,17,16,Monitors,8,3
+General Ward,2024-07-06,17,16,IV Pumps,9,6
+Emergency,2024-07-07,21,20,Ventilators,8,6
+Emergency,2024-07-07,21,20,Monitors,7,5
+Emergency,2024-07-07,21,20,IV Pumps,6,1
+ICU,2024-07-07,23,14,Ventilators,10,3
+ICU,2024-07-07,23,14,Monitors,14,6
+ICU,2024-07-07,23,14,IV Pumps,13,6
+General Ward,2024-07-07,15,10,Ventilators,13,10
+General Ward,2024-07-07,15,10,Monitors,13,3
+General Ward,2024-07-07,15,10,IV Pumps,13,2
