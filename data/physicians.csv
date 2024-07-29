@@ -1,0 +1,22 @@
+physician_name,physician_id,physician_dob,physician_grad_year,medical_school,salary
+Joseph Johnson,0,22-02-1970,22-02-2000,Johns Hopkins University School of Medicine,309534.1551
+Jason Williams,1,22-12-1982,22-12-2012,Mayo Clinic Alix School of Medicine,281114.5036
+Jesse Gordon,2,03-06-1959,03-06-1989,David Geffen School of Medicine at UCLA,305845.5846
+Heather Smith,3,15-06-1965,15-06-1995,NYU Grossman Medical School,295239.7667
+Kayla Hunter DDS,4,19-10-1978,19-10-2008,David Geffen School of Medicine at UCLA,298751.3552
+Christopher Jordan,5,04-11-1989,04-11-2019,NYU Grossman Medical School,316681.6994
+Elaine Medina,6,24-12-1957,24-12-1987,Baylor College of Medicine,283743.0263
+Donna Mcintyre,7,12-03-1987,12-03-2017,Perelman School of Medicine (University of Pennsylvania),319166.7314
+Richard Tucker,8,02-04-1983,02-04-2013,Perelman School of Medicine (University of Pennsylvania),347019.236
+Kimberly Oliver,9,02-06-1989,02-06-2019,Stanford University School of Medicine,310293.2725
+Christopher Williamson,10,22-01-1974,22-01-2004,"University of California, San Francisco School of Medicine",276537.1294
+Cory Campbell,11,08-11-1988,08-11-2018,Stanford University School of Medicine,281549.4597
+Cathy Church,12,30-12-1951,30-12-1981,NYU Grossman Medical School,292552.113
+Kristopher Wiley Jr.,13,30-11-1951,30-11-1981,Yale School of Medicine,282153.2911
+Denise Chavez,14,04-09-1969,04-09-1999,Columbia University Vagelos College of Physicians and Surgeons,270264.5907
+Jason Merritt,15,25-09-1989,25-09-2019,Johns Hopkins University School of Medicine,304632.2183
+Jacqueline Mcneil DVM,16,14-02-1988,14-02-2018,Columbia University Vagelos College of Physicians and Surgeons,293364.08
+Veronica Moore,17,06-04-1970,06-04-2000,University of Chicago Pritzker School of Medicine,305691.6265
+Steven Watson,18,03-06-1961,03-06-1991,Columbia University Vagelos College of Physicians and Surgeons,335591.6224
+Ryan Brown,19,09-12-1961,09-12-1991,Harvard Medical School,292909.415
+Ashley Pena,20,07-11-1956,07-11-1986,Columbia University Vagelos College of Physicians and Surgeons,264437.3999
