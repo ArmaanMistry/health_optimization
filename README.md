@@ -26,6 +26,10 @@ The proposed solution showcases originality and innovation in addressing healthc
 - **Comprehensive Resource Utilization Tracking:** Tracking of resource utilization, such as bed occupancy and equipment usage, adds another layer of innovation. This feature offers a comprehensive view of resource allocation, helping administrators manage resources more effectively. Integrating this data into the dashboard enables a holistic approach to healthcare optimization, addressing both staffing and resource management simultaneously.
 
 In summary, the solution stands out for its innovative use of predictive analytics, advanced chatbot technology, and real-time resource management. By enhancing data accessibility and leveraging technologies like Neo4j and OpenAI’s API, it offers a unique approach to optimizing healthcare operations and improving patient care.
+
+
+> **_NOTE:_** The dataset used in this project is entirely synthetic, meaning it has been artificially created rather than collected from real-world sources. Additionally, some of the CSV files used in this project have been generated programmatically using Python code. This approach ensures that the data adheres to the necessary structure and patterns required for the project's objectives, while avoiding any privacy or confidentiality concerns associated with real patient data.
+
 ## ⚡Getting Started
 
 Create a ```.env``` file in the root directory and add the following environment variables:
