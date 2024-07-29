@@ -6,7 +6,7 @@ It leverages predictive analytics and data to streamline patient scheduling, sta
 ## 📋Features
 
 - **Time-Series Forecasting**: Predict future patient inflows using the Prophet model.
-- **Real-Time Staffing Recommendations**: Adjust staffing levels based on forecasted patient volumes.
+- **Staffing Recommendations**: Adjust staffing levels based on forecasted patient volumes.
 - **Interactive Dashboard**: Visualize patient inflows, staffing needs, and resource utilization.
 - **Advanced Chatbot**: Retrieve data-driven answers about patients, staff, and hospital resources using LangChain and Neo4j.
 
@@ -15,13 +15,13 @@ It leverages predictive analytics and data to streamline patient scheduling, sta
 
 The proposed solution showcases originality and innovation in addressing healthcare optimization through the following methods:
 
-- **Enhanced Data Access and Decision-Making:** The solution emphasizes easy data access, crucial for effective decision-making in healthcare. By integrating an interactive dashboard with real-time data visualization, users can effortlessly access and interpret complex datasets. This real-time visualization aids data-driven decisions on patient inflows, staffing, and resource utilization, improving operational efficiency and patient care.
+- **Enhanced Data Access and Decision-Making:** The solution emphasizes easy data access, which is crucial for effective decision-making in healthcare. Users can effortlessly access and interpret complex datasets by integrating an interactive dashboard with data visualization. This real-time visualization aids data-driven decisions on patient inflows, staffing, and resource utilization, improving operational efficiency and patient care.
 
 - **Innovative Chatbot Integration:** The RAG (Retrieval-Augmented Generation) chatbot, powered by LangChain and Neo4j, innovatively enhances data accessibility. Users can query the system as if interacting with a human, retrieving data on patients, hospital locations, and other critical aspects. Integrated with OpenAI’s API, the chatbot generates accurate, contextually relevant responses, simplifying data retrieval and providing real-time insights.
 
 - **Application of Time-Series Forecasting:** Utilizing time-series forecasting models like Prophet for predicting patient inflows is an innovative application of predictive analytics in healthcare. This approach allows for proactive resource planning and staffing adjustments, moving beyond traditional reactive methods. It helps manage patient flow challenges before they become critical, contributing to more efficient and responsive healthcare services.
 
-- **Staffing Recommendations:** The solution provides staffing recommendations based on forecasted patient inflows. Unlike static staffing models, this dynamic approach adjusts staffing needs according to predicted patient volumes, ensuring facilities can adapt to fluctuations in demand. This flexibility minimizes waiting times and optimizes staff deployment, representing a significant advancement over fixed staffing schedules.
+- **Staffing Recommendations:** The solution provides staffing recommendations based on forecasted patient inflows. Unlike static staffing models, this dynamic approach adjusts staffing needs according to predicted patient volumes, ensuring facilities can adapt to fluctuations in demand. This flexibility minimizes waiting times and optimizes staff deployment, significantly advancing over fixed staffing schedules.
 
 - **Comprehensive Resource Utilization Tracking:** Tracking of resource utilization, such as bed occupancy and equipment usage, adds another layer of innovation. This feature offers a comprehensive view of resource allocation, helping administrators manage resources more effectively. Integrating this data into the dashboard enables a holistic approach to healthcare optimization, addressing both staffing and resource management simultaneously.
 
