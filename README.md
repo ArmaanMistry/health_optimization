@@ -1,6 +1,6 @@
 # Smart Healthcare Optimizer [🧑‍⚕️+🖥️]
 
-It leverages predictive analytics and real-time data to streamline patient scheduling, staffing, and resource management in healthcare facilities, enhancing efficiency and patient care.
+It leverages predictive analytics and data to streamline patient scheduling, staffing, and resource management in healthcare facilities, enhancing efficiency and patient care.
 
 
 ## 📋Features
